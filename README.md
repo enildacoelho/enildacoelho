@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I'm a **PhD candidate** with a passion for **water data science**. My research focuses on leveraging data-driven approaches to address challenges in water resource management and sustainability.
+Hi there! 👋 I'm a **PhD candidate** with a passion for **open data science**. My research focuses on leveraging data-driven approaches to address challenges in water/irrigation management and sustainability.
 
 ## 🌊 Interests
 - Data analysis and visualization
@@ -14,12 +14,9 @@ Hi there! 👋 I'm a **PhD candidate** with a passion for **water data science**
 
 ## 📚 Current Work
 I'm currently working on:
-- Developing predictive models for water quality assessment
+- Developing predictive models for evapotranspiration
 - Exploring the impact of climate change on water availability
-- Building open datasets for water resource studies
-
-
-
+- Data visualization for climate 
 
 
 ## 📫 Let's Connect
