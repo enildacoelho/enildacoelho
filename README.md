@@ -7,8 +7,8 @@ Hi there! 👋 I'm a **PhD candidate** with a passion for **open data science**.
 - Machine learning applications in irrigation focus on water use efficiency 
 
 ## 🛠️ Skills
-- Programming: Python, R, MATLAB
-- Data visualization: Matplotlib, ggplot2
+- Programming: Python, R
+- Data visualization: Matplotlib, ggplot2, Looker Studio, etc.
 - Machine learning: Scikit-learn, TensorFlow
 - GIS and remote sensing: QGIS, Google Earth Engine
 
