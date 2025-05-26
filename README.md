@@ -1,16 +1,30 @@
-## Hi there 👋
+# About Me
 
-<!--
-**enildacoelho/enildacoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm a **PhD candidate** with a passion for **water data science**. My research focuses on leveraging data-driven approaches to address challenges in water resource management and sustainability.
 
-Here are some ideas to get you started:
+## 🌊 Interests
+- Data analysis and visualization
+- Machine learning applications in irrigation focus on water use efficiency 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: Python, R, MATLAB
+- Data visualization: Matplotlib, ggplot2
+- Machine learning: Scikit-learn, TensorFlow
+- GIS and remote sensing: QGIS, Google Earth Engine
+
+## 📚 Current Work
+I'm currently working on:
+- Developing predictive models for water quality assessment
+- Exploring the impact of climate change on water availability
+- Building open datasets for water resource studies
+
+
+
+
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/enildacoelho)
+
+---
+
+> "Water is the driving force of all nature." – Leonardo da Vinci
