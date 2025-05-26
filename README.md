@@ -20,7 +20,7 @@ I'm currently working on:
 
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/enildacoelho)
+- [LinkedIn](https://www.linkedin.com/in/enilda-coelho-81709329)
 
 ---
 
