@@ -4,6 +4,7 @@ Hi there! 👋 I'm a **PhD candidate** with a passion for **open data science**.
 
 ## 🌊 Interests
 - Data analysis and visualization
+- e-Science
 - Machine learning applications in irrigation focus on water use efficiency 
 
 ## 🛠️ Skills
